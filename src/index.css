@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: color .4s ease-in-out, background-color .4s ease-in-out;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.dark-body {
+  background-color: #222;
+  color: #f1f1f1;
+}

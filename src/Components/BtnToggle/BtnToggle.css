@@ -1,0 +1,19 @@
+.btn-toggle {
+    position: absolute;
+    top: 15px;
+    right: 25px;
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+.dark-btn {
+    background-color: #222;
+    color: #f1f1f1;
+}
